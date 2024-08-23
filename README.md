@@ -32,7 +32,7 @@ SQLite3 (comes built-in with Node.js)
 Installation:
 Clone the Repository:
 
-git clone https://github.com/singaramdivya/fullstack-mockinterview--backend.git
+git clone https://github.com/singaramdivya/fullstack-mockinterviewapp--backend.git
 cd career-carve-backend
 
 Install Dependencies:
